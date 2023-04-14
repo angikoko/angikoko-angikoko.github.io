@@ -6,9 +6,10 @@ body
 }
 #BLOG
 {
-position: absolute;
-top: 8px;
-right:16px;
+    position: absolute;
+    top: 8px;
+    right:16px;
+    border-style: solid;
 
 
 }
@@ -16,9 +17,11 @@ right:16px;
     position: absolute;
     top: 8px;
     right: 80px;
+    border-style: solid;
 }
 #INDEX {
     position: absolute;
     top: 8px;
     right: 140px;
+    border-style: solid;
 }
